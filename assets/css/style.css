@@ -807,7 +807,7 @@ img {
 ******************************/
 
 .even-title {
-    background: url("../images/add/event1-ban.jpeg") center center/cover no-repeat local;
+    background: linear-gradient(rgb(5, 5, 43), transparent) 50% 100%, url("../images/add/event1-ban.jpeg") center center/cover no-repeat local;
     width: 100%;
     height: 430px;
     position: relative;
@@ -966,7 +966,7 @@ img {
 ******************************/
 
 .intern-title {
-    background: url("../images/add/intern.jpeg") center center/cover no-repeat local;
+    background:  linear-gradient(rgb(3, 3, 46), transparent) 50% 100%, url("../images/add/intern.jpeg") center center/cover no-repeat local;
     width: 100%;
     height: 430px;
     position: relative;
@@ -1232,7 +1232,7 @@ img {
   #hub title
 ******************************/
 .hub-title {
-    background: url("../images/add/tech-hub.jpeg") center center/cover no-repeat local;
+    background: linear-gradient(rgb(3, 3, 46), transparent) 50% 100%, url("../images/add/tech-hub.jpeg") center center/cover no-repeat local;
     width: 100%;
     height: 430px;
     position: relative;
@@ -1338,7 +1338,7 @@ img {
   #contact-us title
 ******************************/
 .contact-title {
-    background: url("../images/add/contact-us.jpeg") center center/cover no-repeat local;
+    background: linear-gradient(rgb(3, 3, 46), transparent) 50% 100%, url("../images/add/contact-us.jpeg") center center/cover no-repeat local;
     width: 100%;
     height: 430px;
     position: relative;
@@ -1499,7 +1499,7 @@ img {
 ******************************/
 
 .page-title {
-    background: url("../images/add/hostel.jpeg") center center/cover no-repeat local;
+    background: linear-gradient(rgb(3, 3, 46), transparent) 50% 100%, url("../images/add/hostel.jpeg") center center/cover no-repeat local;
     width: 100%;
     height: 430px;
     position: relative;
